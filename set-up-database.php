@@ -158,7 +158,7 @@
     	$lQueryString = "INSERT INTO accounts (username, password, mysignature, is_admin, firstname, lastname) VALUES
     		('admin', 'adminpass', 'g0t r00t?', 'TRUE' ,'System' ,'Administrator'),
     		('adrian', 'somepassword', 'Zombie Films Rock!', 'TRUE' ,'Adrian' ,'Crenshaw'),
-    		('john', 'monkey', 'I like the smell of confunk', 'FALSE' ,'John' ,'Pentest'),
+    		('john', 'qwerty', 'I like the smell of confunk', 'FALSE' ,'John' ,'Pentest'),
     		('jeremy', 'password', 'd1373 1337 speak', 'FALSE' ,'Jeremy' ,'Druin'),
     		('bryce', 'password', 'I Love SANS', 'FALSE' ,'Bryce' ,'Galbraith'),
     		('samurai', 'samurai', 'Carving fools', 'FALSE' ,'Samurai' ,'WTF'),
